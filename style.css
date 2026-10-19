@@ -1,0 +1,171 @@
+
+
+.üst01{
+    position: fixed;
+    background-color: #ffffff;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+    padding: 10px;
+    margin: 10px;
+}
+
+.table{
+    color: #ffffff;
+    background-color: #000000;
+    font-style: italic;
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    z-index: 1;
+}
+
+h1{
+    font-size: 30px;
+    color: #000000;
+    font-style: italic;
+}
+
+.sıra1{
+    position: relative;
+    top: 210px;
+    left: 10px;
+}
+
+.sıra2{
+    position: relative;
+    top: 215px;
+    left: 10px;
+}
+
+.sıra3{
+    position: relative;
+    top: 220px;
+    left: 10px;
+}
+
+.başlık01{
+    position: absolute;
+    color: #000000;
+    top: 200px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.metin02{
+    position: absolute;
+    color: #8a8a8a;
+    top: 760px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.metin03{
+    position: absolute;
+    color: #8a8a8a;
+    top: 780px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.tanıtım01{
+    position: relative;
+}
+
+.img01{
+    width: 53%;
+    position: relative;
+    top: 300px;
+    left: 10px;
+}
+
+.metin04{
+    color: #8a8a8a;
+    position: absolute;
+    top: 760px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.başlık02{
+    position: absolute;
+    color: #000000;
+    top: 280px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.analiz01{
+    position: relative;
+    top: 360px;
+    left: 10px;
+    right: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.img02{
+    width: 16%;
+}
+
+.başlık03{
+    position: absolute;
+    color: #000000;
+    top: 1440px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.img03{
+    position: absolute;
+    width: 40%;
+    position: relative;
+    top: 500px;
+    left: 10px;
+
+}
+
+.başlık04{
+    position: absolute;
+    color: #000000;
+    top: 1920px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.img04{
+    width: 32.8%;
+}
+
+.img05{
+    width: 32.8%;
+}
+
+.sıra04{
+    position: relative;
+    top: 795px;
+    left: 10px;
+}
+
+.sıra05{
+    position: relative;
+    top: 800px;
+    left: 10px;
+}
+
+.başlık05{
+    position: absolute;
+    color: #000000;
+    top: 2940px;
+    right: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
